@@ -1,2 +1,3 @@
-# start_with_git
-Une premiere issue avec git
+Mon premier projet Git pour la formation Git
+
+
